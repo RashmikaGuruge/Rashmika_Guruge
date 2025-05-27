@@ -71,8 +71,8 @@ const projects = [
       "Brooklyn Crust is a sleek and modern landing page that highlights the menu, specials, and contact details with a clean layout, smooth navigation, and a fully responsive design for all devices.",
     image: "/pizza.png",
     tags: ["JavaScript", "HTML", "CSS"],
-    demoLink: "https://example.com/demo2",
-    githubLink: "https://github.com/example/project2",
+    demoLink: "https://brooklyncrust.netlify.app/",
+    githubLink: "https://brooklyncrust.netlify.app/",
   },
   {
     title: "Rashmika Guruge - Personal Porfolio",
@@ -89,8 +89,8 @@ const projects = [
       "This fitness center website features a modern, responsive design that highlights services, subscription plans, and promotions. With a clean layout and engaging visuals, it delivers a smooth user experience and effectively communicates the brand’s offerings.",
     image: "/fitness.png",
     tags: ["JavaScript", "HTML", "CSS"],
-    demoLink: "https://example.com/demo4",
-    githubLink: "https://github.com/example/project4",
+    demoLink: "https://fitness-center-gym-web.netlify.app/",
+    githubLink: "https://fitness-center-gym-web.netlify.app/",
   },
 ]
 
