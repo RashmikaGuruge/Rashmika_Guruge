@@ -81,7 +81,7 @@ const projects = [
     image: "/villa.png",
     tags: ["JavaScript", "HTML", "CSS"],
     demoLink: "https://rvilla.netlify.app/",
-    githubLink: "https://brooklyncrust.netlify.app/",
+    githubLink: "https://github.com/RashmikaGuruge/villa-frontend",
   },
   {
     title: "Rashmika Guruge - Personal Porfolio",
