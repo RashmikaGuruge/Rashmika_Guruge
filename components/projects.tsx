@@ -75,6 +75,15 @@ const projects = [
     githubLink: "https://brooklyncrust.netlify.app/",
   },
   {
+    title: "Website for Villa",
+    description:
+      "Elegant villa landing page with dedicated sections for company info, villa listings, services offered, and contact details.",
+    image: "/villa.png",
+    tags: ["JavaScript", "HTML", "CSS"],
+    demoLink: "https://rvilla.netlify.app/",
+    githubLink: "https://brooklyncrust.netlify.app/",
+  },
+  {
     title: "Rashmika Guruge - Personal Porfolio",
     description:
       "This personal portfolio showcases my work, skills, and projects in a clean and organized layout. Designed with a focus on simplicity and responsiveness, it offers an easy way to explore my professional journey and connect with me.",
