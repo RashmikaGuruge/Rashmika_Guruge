@@ -10,6 +10,15 @@ import { Github, ArrowRight, Eye } from "lucide-react"
 
 const projects = [
   {
+    title: "Sole Craze - E-commerce Website",
+    description:
+      "An eCommerce platform designed for shoe enthusiasts, offering a seamless shopping experience with efficient product discovery, secure transactions, and robust inventory management tools for administrators",
+    image: "/solecraze.png",
+    tags: ["React", "Node.js", "Express.js", "MongoDB", "Firebase", "Stripe"],
+    demoLink: "https://solecraze.netlify.app/",
+    githubLink: "https://github.com/SoleCraze"
+  },
+  {
     title: "Venture Vibe - Travel Planning Website",
     description:
       "A travel planning web application designed to simplify trip management and enhance user experiences. It allows users to create detailed itineraries, manage budgets, and connect with a vibrant travel community to share stories and insights.",
@@ -38,15 +47,6 @@ const projects = [
   //   demoLink: "https://aimei.edu.lk/",
   //   githubLink: "https://aimei.edu.lk/",
   // },
-  {
-    title: "Sole Craze - E-commerce Website",
-    description:
-      "An eCommerce platform designed for shoe enthusiasts, offering a seamless shopping experience with efficient product discovery, secure transactions, and robust inventory management tools for administrators",
-    image: "/solecraze.png",
-    tags: ["React", "Node.js", "Express.js", "MongoDB", "Firebase", "Stripe"],
-    demoLink: "https://youtu.be/wvN854JaQdA",
-    githubLink: "https://github.com/SoleCraze"
-  },
   {
     title: "Symphony - Musical Equipment Renting and Services Hiring Platform",
     description:
